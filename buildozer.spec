@@ -25,4 +25,3 @@ android.build_tools_version = 34.0.0
 
 android.archs = arm64-v8a
 
-p4a.branch = stable
